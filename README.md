@@ -29,6 +29,8 @@ elif number < 0:
     print("The number is negative.")
 
 
+else:
+    print("The number is zero.")
 
 
 
@@ -69,5 +71,3 @@ python control-statements assignments hormuud-university
 
 
 
-else:
-    print("The number is zero.")
